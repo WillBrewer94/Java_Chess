@@ -1,0 +1,43 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\gamecontrol\NetworkedChessController.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\ChessFX.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\gamecontrol\NetworkedChessController.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\ChessFX.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\gamecontrol\NetworkedChessController.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\ChessFX.java, C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java)[0m
+[0m[[0minfo[0m] [0mCompiling 4 Java sources to C:\Users\Will\Documents\School\CS1331\hw-chess-master\target\scala-2.10\classes...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 6.178775587 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.614349527 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 6.845659129 s[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	count, background, highlight, label, offSet, pane, p.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\TileView.java[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	updateBoard.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\BoardView.java[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\ChessFX.java[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\ChessFX.java)[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\Will\Documents\School\CS1331\hw-chess-master\src\main\java\boardview\ChessFX.java)[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

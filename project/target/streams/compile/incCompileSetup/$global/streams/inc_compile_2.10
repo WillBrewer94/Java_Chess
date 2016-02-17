@@ -1,0 +1,175 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build$$anonfun$checkstyleImpl$1.class
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build$$anonfun$checkstylePoints$1$$anonfun$apply$1.class
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build$$anonfun$checkstylePoints$1.class
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build$.class
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build.class
+binary dependencies:
+9 items
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Program Files (x86)\Java\jre1.8.0_66\lib\rt.jar
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\.ivy2\cache\org.scala-sbt\tasks\jars\tasks-0.13.9.jar
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\.ivy2\cache\scala_2.10\sbt_0.13\com.etsy\sbt-checkstyle-plugin\jars\sbt-checkstyle-plugin-0.5.2.jar
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> C:\Users\Will\.sbt\boot\scala-2.10.5\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Cs1331Build
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Cs1331Build$
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Cs1331Build$$anonfun$checkstyleImpl$1
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Cs1331Build$$anonfun$checkstylePoints$1
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Cs1331Build$$anonfun$checkstylePoints$1$$anonfun$apply$1
+used names:
+66 items
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> +
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> <init>
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> ==
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> >
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Build
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Checkstyle
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> CheckstyleTasks
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Compile
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> ConfigKey
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Cs1331Build
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Def
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> FullInstance
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> InputWrapper
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Keys
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> ManifestFactory
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Predef
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> StringBuilder
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> StringContext
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> TaskKey
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> Unit
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> XML
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> \
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> append
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> apply
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> checkstyle
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> checkstyleImpl
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> checkstylePoints
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> checkstyleReport
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> com
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> configurationToKey
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> endsWith
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> error
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> errorCount
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> errors
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> etsy
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> file
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> fileName
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> files
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> foreach
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> in
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> last
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> length
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> line
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> loadFile
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> macroValueIT
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> map
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> msg
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> name
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> package
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> println
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> refArrayOps
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> reflect
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> report
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> result
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> richInitializeTask
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> s
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> sbt
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> scala
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> split
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> task
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> taskKey
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> text
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> toString
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> value
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> wrapInitTask_☃☃
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> xml
+product stamps:
+5 items
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build$$anonfun$checkstyleImpl$1.class -> lastModified(1447721361389)
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build$$anonfun$checkstylePoints$1$$anonfun$apply$1.class -> lastModified(1447721361462)
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build$$anonfun$checkstylePoints$1.class -> lastModified(1447721361423)
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build$.class -> lastModified(1447721361354)
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\target\scala-2.10\sbt-0.13\classes\Cs1331Build.class -> lastModified(1447721361213)
+source stamps:
+1 items
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> hash(87e5290d29bc8763ebb997647122ceb0aad27c81)
+binary stamps:
+9 items
+C:\Program Files (x86)\Java\jre1.8.0_66\lib\rt.jar -> lastModified(1447717790797)
+C:\Users\Will\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> lastModified(1439253124000)
+C:\Users\Will\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> lastModified(1439253158000)
+C:\Users\Will\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> lastModified(1439253385000)
+C:\Users\Will\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> lastModified(1439253389000)
+C:\Users\Will\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> lastModified(1439253291000)
+C:\Users\Will\.ivy2\cache\org.scala-sbt\tasks\jars\tasks-0.13.9.jar -> lastModified(1439253199000)
+C:\Users\Will\.ivy2\cache\scala_2.10\sbt_0.13\com.etsy\sbt-checkstyle-plugin\jars\sbt-checkstyle-plugin-0.5.2.jar -> lastModified(1440594334000)
+C:\Users\Will\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> lastModified(1425002069000)
+class names:
+9 items
+C:\Program Files (x86)\Java\jre1.8.0_66\lib\rt.jar -> java.lang.Object
+C:\Users\Will\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.9.jar -> sbt.appmacro.Instance$
+C:\Users\Will\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.9.jar -> sbt.Init
+C:\Users\Will\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.9.jar -> sbt.std.FullInstance$
+C:\Users\Will\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.9.jar -> sbt.Build
+C:\Users\Will\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.9.jar -> sbt.package$
+C:\Users\Will\.ivy2\cache\org.scala-sbt\tasks\jars\tasks-0.13.9.jar -> sbt.Result
+C:\Users\Will\.ivy2\cache\scala_2.10\sbt_0.13\com.etsy\sbt-checkstyle-plugin\jars\sbt-checkstyle-plugin-0.5.2.jar -> com.etsy.sbt.Checkstyle$
+C:\Users\Will\.sbt\boot\scala-2.10.5\lib\scala-library.jar -> scala.StringContext$
+internal apis:
+1 items
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAkIXrpAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDE4L9x0AAZub3RpZnlzcQB+AAwkgs13dAAEd2FpdHNxAH4ADOCFDHl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMVXzoBHQADGJ1aWxkTG9hZGVyc3NxAH4ADI2+hh50AAZlcXVhbHNzcQB+AAw7u46hdAAMYXNJbnN0YW5jZU9mc3EAfgAMw70/X3QAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADJVkOLh0AAxzeW5jaHJvbml6ZWRzcQB+AAx/Nyw9dAAKY2hlY2tzdHlsZXNxAH4ADBd1ecJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMpMO0w3QAEGNoZWNrc3R5bGVQb2ludHNzcQB+AAyuXvJjdAAJbm90aWZ5QWxsc3EAfgAMZ//8lHQAC3Jvb3RQcm9qZWN0c3EAfgAMeqQ1P3QADGlzSW5zdGFuY2VPZnNxAH4ADMC9r5t0AAI9PXNxAH4ADFD2oxJ0AAVjbG9uZXNxAH4ADKoPuD50AAh0b1N0cmluZ3NxAH4ADEX+4W90AAIhPXNxAH4ADAkQqsB0AAhwcm9qZWN0c3NxAH4ADGB8+NN0AAhnZXRDbGFzc3NxAH4ADNeTZcR0AAJuZXNxAH4ADK29qpl0AAtDczEzMzFCdWlsZHNxAH4ADPtWaiZ0AA5jaGVja3N0eWxlSW1wbHNxAH4ADHImoWp0AAJlcXNxAH4ADC+kNOZ0AAhzZXR0aW5nc3NxAH4ADDiSHMF0AAIjI3NxAH4ADHpsq1l0AAhmaW5hbGl6ZXNxAH4ADJcDhVh0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AOXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AZgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBtc3EAfgBmAXVxAH4ASgAAAABwc3EAfgBmAXVxAH4ASgAAAABwc3EAfgBmAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbHQABUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANzYnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhnNxAH4AeXQABk9iamVjdHNxAH4AfXNxAH4AgHVxAH4AgwAAAANzcQB+AIV0AARqYXZhc3EAfgCFdAAEbGFuZ3EAfgCKc3EAfgB5dAADQW55c3EAfgB9c3EAfgCAdXEAfgCDAAAAAnNxAH4AhXQABXNjYWxhcQB+AIpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFREurHbnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGBDOlxVc2Vyc1xXaWxsXERvY3VtZW50c1xTY2hvb2xcQ1MxMzMxXGh3LWNoZXNzLW1hc3Rlclxwcm9qZWN0XHRhcmdldFxzY2FsYS0yLjEwXHNidC0wLjEzXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSH5SkNKbyHY+u5l2RxIs6wqtJ8gQ==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Will\Documents\School\CS1331\hw-chess-master\project\Build.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUQ0VlZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYEM6XFVzZXJzXFdpbGxcRG9jdW1lbnRzXFNjaG9vbFxDUzEzMzFcaHctY2hlc3MtbWFzdGVyXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABURLqx251cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYEM6XFVzZXJzXFdpbGxcRG9jdW1lbnRzXFNjaG9vbFxDUzEzMzFcaHctY2hlc3MtbWFzdGVyXHByb2plY3RcdGFyZ2V0XHNjYWxhLTIuMTBcc2J0LTAuMTNcY2xhc3Nlc3QAAS8=
